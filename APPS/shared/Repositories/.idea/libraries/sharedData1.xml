@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sharedData1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../dto/out/artifacts/sharedData/sharedData.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

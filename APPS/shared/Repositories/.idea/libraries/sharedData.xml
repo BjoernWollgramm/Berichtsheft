@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="sharedData">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../dto/out/artifacts/sharedData/sharedData.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../dto/out/artifacts/sharedData/sharedData.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../dto/out/artifacts/sharedData/sharedData.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/../dto/out/artifacts/sharedData/sharedData.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../dto/out/artifacts/sharedData/sharedData.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/../dto/out/artifacts/sharedData/sharedData.jar!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/../dto/out/artifacts/sharedData/sharedData.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>

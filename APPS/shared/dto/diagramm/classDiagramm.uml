@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="255.0" y="0.0">AzubiData</node>
+    <node x="31.666666666666686" y="0.0">RolleData</node>
+    <node x="-298.0" y="131.0">BenutzerData</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="RolleData" target="RolleData">
+      <point x="-36.666666666666664" y="36.5" />
+      <point x="50.00000000000002" y="93.0" />
+      <point x="11.666666666666686" y="93.0" />
+      <point x="11.666666666666686" y="36.5" />
+      <point x="-55.0" y="-0.0" />
+    </edge>
+    <edge source="BenutzerData" target="RolleData">
+      <point x="42.5" y="-70.0" />
+      <point x="147.5" y="113.0" />
+      <point x="123.33333333333334" y="113.0" />
+      <point x="36.66666666666666" y="36.5" />
+    </edge>
+    <edge source="AzubiData" target="AzubiData">
+      <point x="0.0" y="47.5" />
+      <point x="359.5" y="115.0" />
+      <point x="235.0" y="115.0" />
+      <point x="235.0" y="47.5" />
+      <point x="-104.5" y="-0.0" />
+    </edge>
+    <edge source="BenutzerData" target="BenutzerData">
+      <point x="0.0" y="70.0" />
+      <point x="-213.0" y="291.0" />
+      <point x="-318.0" y="291.0" />
+      <point x="-318.0" y="201.0" />
+      <point x="-85.0" y="-0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="74.5" y="0.0" />
+  <SelectedNodes>
+    <node>BenutzerData</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

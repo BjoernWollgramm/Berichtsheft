@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Repositories.iml" filepath="$PROJECT_DIR$/Repositories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-connector-java.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-connector-java.iml" />
+      <module fileurl="file://F:/Programme/mysqlJAdapter/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45.iml" filepath="F:/Programme/mysqlJAdapter/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-connector-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-connector-java_main.iml" group="mysql-connector-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mysql-connector-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mysql-connector-java_test.iml" group="mysql-connector-java" />
     </modules>
   </component>
 </project>
